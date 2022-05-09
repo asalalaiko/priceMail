@@ -10,4 +10,5 @@ Application collects price lists of suppliers, processes them and saves them in 
   - Java 8+
   - String Boot, Spring Data
   - PostgreSQL
+  - -Docker
 
